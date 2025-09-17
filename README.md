@@ -13,8 +13,6 @@ Here you’ll find all the necessary elements to work with the project’s visua
 - **/typography** → Typography assets and usage guidelines (Inter Tight + Inter).  
 - **/colors** → Official palettes (primary, secondary, semantic).  
 - **/style-guide** → Full PDF brand guidelines.  
-- **/mockups** → Application examples and additional assets.  
-
 
 ## 🦭 Visual Identity
 
